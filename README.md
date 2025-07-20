@@ -17,7 +17,8 @@ All images are publicly available for viewing and distribution. For details on u
 
 ### 00.1 Who Is God?
 
-![Who Is God?](00.1%20Who%20Is%20God%20.png)
+![Who Is God?](00.1%20Who%20Is%20God%3F.png)
+
 
 ---
 
