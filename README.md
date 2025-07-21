@@ -14,29 +14,7 @@ All images are publicly available for viewing and distribution. For details on u
 - Debate-Oriented Memes  
 - Visual Aids for Educational Use  
 ## 🖼️ Featured Graphics
-![OO.1 Who is God](OO.1%20Who%20is%20God%20.png)  
-*OO.1 Who is God*
 
-![00.2 Only The Father Is God](00.2%20Only%20The%20Father%20Is%20God%20.png)  
-*00.2 Only The Father Is God*
-
-![00.3 "God" And "Jesus" - Two Different Persons](00.3%20%22God%22%20And%20%22Jesus%22%20-%20Two%20Different%20Persons%20.png)  
-*00.3 "God" And "Jesus" - Two Different Persons*
-
-![001 "God has no God"](001%20%22God%20has%20no%20God%22%20.png)  
-*001 "God has no God"*
-
-![002 Did Jesus Get It Wrong](002%20Did%20Jesus%20Get%20It%20Wrong%20.png)  
-*002 Did Jesus Get It Wrong*
-
-![003 Does God have two wills](003%20Does%20God%20have%20two%20wills%20.png)  
-*003 Does God have two wills*
-
-![))4 DIVINE IDENTITY CRISIS](%29%294%20DIVINE%20IDENTITY%20CRISIS%20.PNG)  
-*))4 DIVINE IDENTITY CRISIS*
-
-![005 only true god](005%20only%20true%20god%20.png)  
-*005 only true god*
 
 
 
