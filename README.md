@@ -40,8 +40,7 @@ All images are publicly available for viewing and distribution. For details on u
 **005 Only True God**  
 ![](https://github.com/stevenblake77/Christian-Unitarian-Graphics/blob/main/005-only-true-god.png?raw=true)
 
-### 06 - God's God Pt.1  
-![06-god's-god-pt.1](06-god's-god-pt.1.png)
+![006-god's-god-pt.1](006-god's-god-pt.1.png)
 
 ### 006 - God's God Pt.2  
 ![006-god's-god-pt.2](006-god's-god-pt.2.png)
