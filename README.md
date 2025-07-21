@@ -14,43 +14,41 @@ All images are publicly available for viewing and distribution. For details on u
 - Debate-Oriented Memes  
 - Visual Aids for Educational Use  
 ## 🖼️ Featured Graphics
+### 005 Only True God
 
-### 00.1 Who Is God?
+![005 Only True God](https://github.com/user-attachments/assets/574d3920-1026-4a51-b051-818bc859386b)
 
-![Who Is God?](00.1%20Who%20Is%20God%3F.png)
+### 004 Divine Identity Crisis
 
+![004 Divine Identity Crisis](https://github.com/user-attachments/assets/479feffd-20b2-4220-b0c7-96faf001d84e)
 
----
+### 003 Does God have Two Wills
 
-### 00.2 Only The Father Is God
+![003 Does God have Two Wills](https://github.com/user-attachments/assets/fcfd3e88-b259-489c-a3ad-c5278fc05a1c)
 
-![Only The Father Is God](00.2%20Only%20The%20Father%20Is%20God%20.png)
+### 002 Did Jesus Get It Wrong
 
----
-
-### 00.3 "God" And "Jesus" – Two Different Persons
-
-!["God" And "Jesus" – Two Different Persons](00.3%20%22God%22%20And%20%22Jesus%22%20-%20Two%20Different%20Persons%20.png)
-
----
+![002 Did Jesus Get It Wrong](https://github.com/user-attachments/assets/85994d34-a3f5-4295-8fe7-451e971d418d)
 
 ### 001 God Has No God
 
-![God Has No God](001%20%22God%20has%20no%20God%22%20.png)
+![001 God Has No God](https://github.com/user-attachments/assets/db52f262-c44e-4ac4-8f05-e81d064a597b)
 
----
+### 003 God And Jesus - Two Different Persons
 
-### 002 Did Jesus Get It Wrong?
+![003 God And Jesus - Two Different Persons](https://github.com/user-attachments/assets/7d93bda2-16e0-42c4-9fac-04d8d9b6715d)
 
-![Did Jesus Get It Wrong?](002%20Did%20Jesus%20Get%20It%20Wrong%3F%20.png)
+### 002 Only The Father Is God
 
----
+![002 Only The Father Is God](https://github.com/user-attachments/assets/a1b447fb-a488-4370-80e8-e0a680cb4654)
 
-### 003 Does God Have Two Wills?
+### 001 Who Is God
 
-![Does God Have Two Wills?](003%20Does%20God%20have%20two%20wills%3F%20.png)
+![001 Who Is God](https://github.com/user-attachments/assets/b5305843-b0e4-4504-9a1a-42c4e574f307)
 
----
+
+
+
 
 ## About the Author
 
