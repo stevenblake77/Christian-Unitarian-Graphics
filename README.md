@@ -22,7 +22,7 @@ All images are publicly available for viewing and distribution. For details on u
 **00.2 Only The Father Is God**  
 ![](https://github.com/stevenblake77/Christian-Unitarian-Graphics/blob/main/00.2-only-the-father-is-god.png?raw=true)
 
-**00.3 God And Jesus – Two Different Persons**  
+**00.3 God And Jesus–Two Different Persons**  
 ![](https://github.com/stevenblake77/Christian-Unitarian-Graphics/blob/main/00.3-god-and-jesus-two-different-persons.png?raw=true)
 
 **001 God Has No God**  
