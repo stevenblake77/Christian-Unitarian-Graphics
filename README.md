@@ -32,7 +32,7 @@ All images are publicly available for viewing and distribution. For details on u
 ![003 Does God have two wills](003%20Does%20God%20have%20two%20wills%20.png)  
 *003 Does God have two wills*
 
-![))4 DIVINE IDENTITY CRISIS]())4%20DIVINE%20IDENTITY%20CRISIS%20.PNG)  
+![))4 DIVINE IDENTITY CRISIS](%29%294%20DIVINE%20IDENTITY%20CRISIS%20.PNG)  
 *))4 DIVINE IDENTITY CRISIS*
 
 ![005 only true god](005%20only%20true%20god%20.png)  
