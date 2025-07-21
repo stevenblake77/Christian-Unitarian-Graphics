@@ -1,19 +1,23 @@
 # Christian-Unitarian-Graphics
-Graphic Memes Depicting The Christian-Unitarian Position
 
+- - - Greetings, and welcome to Christian-Unitarian-Graphics - Graphic Memes Depicting The Christian-Unitarian Position
+  -
 This repository contains custom graphics designed to illustrate key arguments in theological debates — particularly those surrounding the doctrine of the Trinity versus Biblical Unitarianism. These visuals include diagrams, memes, charts, and conceptual illustrations created to support public discussion, teaching, and critical thinking.
-
-All images are publicly available for viewing and distribution. For details on usage permissions, see the [LICENSE](LICENSE) file.
-
+-
+**How to Download Files from This Repository**
+-
+- To download an individual file, click its filename in the list below to open it, then click the **Download** button (or right-click **Raw** and choose "Save As...").  
+- To download the entire repository at once, click the green **Code** button near the top right, then select **Download ZIP**.  
+- No sign-in or GitHub account is needed — everything here is free and open to all!
+-
+NOTE: All images are publicly available for viewing and distribution. For details on usage permissions, see the [LICENSE](LICENSE) file.
 ---
-
 ## Contents
-
 - Theological Argument Diagrams  
 - Scriptural Concept Maps  
 - Debate-Oriented Memes  
 - Visual Aids for Educational Use  
-## 🖼️ Featured Graphics
+-
 ### Featured Graphics
 
 **00.1 Who Is God**  
@@ -123,13 +127,9 @@ All images are publicly available for viewing and distribution. For details on u
 
 ### 099 - Gone Fishing  
 ![099-gone-fishing](099-gone-fishing.png)
-
-
-
-
-
-
-
+-
+-
+-
 ## About the Author
 
 This repository is maintained by **Steven Blake**, author of the book  
