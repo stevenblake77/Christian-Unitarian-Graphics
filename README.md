@@ -14,37 +14,38 @@ All images are publicly available for viewing and distribution. For details on u
 - Debate-Oriented Memes  
 - Visual Aids for Educational Use  
 ## 🖼️ Featured Graphics
-### 005 Only True God
+### 001 Who Is God
 
-![005 Only True God](https://github.com/user-attachments/assets/574d3920-1026-4a51-b051-818bc859386b)
-
-### 004 Divine Identity Crisis
-
-![004 Divine Identity Crisis](https://github.com/user-attachments/assets/479feffd-20b2-4220-b0c7-96faf001d84e)
-
-### 003 Does God have Two Wills
-
-![003 Does God have Two Wills](https://github.com/user-attachments/assets/fcfd3e88-b259-489c-a3ad-c5278fc05a1c)
-
-### 002 Did Jesus Get It Wrong
-
-![002 Did Jesus Get It Wrong](https://github.com/user-attachments/assets/85994d34-a3f5-4295-8fe7-451e971d418d)
-
-### 001 God Has No God
-
-![001 God Has No God](https://github.com/user-attachments/assets/db52f262-c44e-4ac4-8f05-e81d064a597b)
-
-### 003 God And Jesus - Two Different Persons
-
-![003 God And Jesus - Two Different Persons](https://github.com/user-attachments/assets/7d93bda2-16e0-42c4-9fac-04d8d9b6715d)
+![001 Who Is God](001%20Who%20Is%20God.png)
 
 ### 002 Only The Father Is God
 
-![002 Only The Father Is God](https://github.com/user-attachments/assets/a1b447fb-a488-4370-80e8-e0a680cb4654)
+![002 Only The Father Is God](002%20Only%20The%20Father%20Is%20God.png)
 
-### 001 Who Is God
+### 003 God And Jesus - Two Different Persons
 
-![001 Who Is God](https://github.com/user-attachments/assets/b5305843-b0e4-4504-9a1a-42c4e574f307)
+![003 God And Jesus - Two Different Persons](003%20God%20And%20Jesus%20-%20Two%20Different%20Persons.png)
+
+### 004 Divine Identity Crisis
+
+![004 Divine Identity Crisis](004%20Divine%20Identity%20Crisis.png)
+
+### 005 Only True God
+
+![005 Only True God](005%20Only%20True%20God.png)
+
+### 003 Does God Have Two Wills
+
+![003 Does God Have Two Wills](003%20Does%20God%20Have%20Two%20Wills.png)
+
+### 002 Did Jesus Get It Wrong
+
+![002 Did Jesus Get It Wrong](002%20Did%20Jesus%20Get%20It%20Wrong.png)
+
+### 001 God Has No God
+
+![001 God Has No God](001%20God%20Has%20No%20God.png)
+
 
 
 
