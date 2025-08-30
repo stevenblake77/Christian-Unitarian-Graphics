@@ -127,7 +127,69 @@ NOTE: All images are publicly available for viewing and distribution. For detail
 
 ### 099 - Gone Fishing  
 ![099-gone-fishing](099-gone-fishing.png)
--
+
+### 030 - Graphic Collection
+![030-graphic-collection](030-graphic-collection.png)
+
+### 031 - Gone in 60 Seconds
+![031-gone-in-60-seconds](031-gone-in-60-seconds.png)
+
+### 032 - Is Jesus His Own God
+![032-is-jesus-his-own-god](032-is-jesus-his-own-god.png)
+
+### 033 - Who Raised Jesus
+![033-who-raised-jesus](033-who-raised-jesus.png)
+
+### 034 - Ministerial Certification
+![034-ministerial-certification](034-ministerial-certification.png)
+
+### 035 - This Is the True God
+![035-this-is-the-true-god](035-this-is-the-true-god.png)
+
+### 036 - Paul or the Pope
+![036-paul-or-the-pope](036-paul-or-the-pope.png)
+
+### 037 - Unitarianism in One Verse
+![037-unitarianism-in-one-verse](037-unitarianism-in-one-verse.png)
+
+### 038 - Hyper Literal
+![038-hyper-literal](038-hyper-literal.png)
+
+### 039 - Two Wills
+![039-two-wills](039-two-wills.png)
+
+### 040 - Clearing the Air
+![040-clearing-the-air](040-clearing-the-air.jpg)
+
+### 041 - Attorny for the Defense
+![041-attorny-for-the-defense](041-attorny-for-the-defense.png)
+
+### 042 - Leading a Trinitarian to Knowledge
+![042-leading-a-trinitarian-to-knowledge](042-leading-a-trinitarian-to-knowledge.png)
+
+### 043 - God Doesn't Have a God
+![043-god-doesnt-have-a-god](043-god-doesnt-have-a-god.png)
+
+### 044 - Wheres the Mustard
+![044-wheres-the-mustard](044-wheres-the-mustard.png)
+
+### 045 - Lord Doesn't Mean God
+![045-lord-doesn't-mean-god](045-lord-doesn't-mean-god.png)
+
+### 046 - Pagan Origins of the Trinity
+![046-pagan-origins-of-the-trinity](046-pagan-origins-of-the-trinity.png)
+
+### 047 - Bible in the Bible
+![047-bible-in-the-bible](047-bible-in-the-bible.png)
+
+### 048 - Echad Means One
+![048-echad-means-one](048-echad-means-one.png)
+
+### 049 - HS Not God
+![049-hs-not-god](049-hs-not-god.png)
+
+
+
 -
 -
 ## About the Author
