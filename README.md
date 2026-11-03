@@ -188,6 +188,115 @@ NOTE: All images are publicly available for viewing and distribution. For detail
 ### 049 - HS Not God
 ![049-hs-not-god](049-hs-not-god.png)
 
+### 050 - Chatbot Wars
+![Chatbot Wars](050-chatbot-wars.png)
+
+### 051 - Thomas' Exclamation
+![Thomas' Exclamation](051-thomas-exclamation.png)
+
+### 052 - How Many Gods?
+![How Many Gods?](052-how-many-gods.png)
+
+### 053 - One God Too Many
+![One God Too Many](053-one-god-too-many.png)
+
+### 054 - Chatbot Declares Victory
+![Chatbot Declares Victory](054-chatbot-declares-victory.png)
+
+### 054 - Jesus at His Own Right Hand
+![Jesus at His Own Right Hand](054-jesus-at-his-own-right-hand.png)
+
+### 055 - The Price of Truth
+![The Price of Truth](055-the-price-of-truth.png)
+
+### 056 - Is Jesus His Own God?
+![Is Jesus His Own God?](056-is-jesus-his-own-god.png)
+
+### 057 - Magic Eight Ball
+![Magic Eight Ball](057-magic-eight-ball.png)
+
+### 058 - ADV: Welcome
+![ADV: Welcome](058-adv-welcome.png)
+
+### 059 - ADV: Algebra
+![ADV: Algebra](059-adv-algebra.png)
+
+### 060 - ADV: Who Knows?
+![ADV: Who Knows?](060-adv-who-knows.png)
+
+### 061 - ADV: How Many Gods?
+![ADV: How Many Gods?](061-adv-how-many-gods.png)
+
+### 062 - Two Wills
+![Two Wills](062-two-wills.png)
+
+### 063 - God with God
+![God with God](063-god-with-god.png)
+
+### 064 - Block
+![Block](064-block.png)
+
+### 065 - Trinity Derangement Syndrome
+![Trinity Derangement Syndrome](065-trinity%20-derangement-syndrome.png)
+
+### 066 - The True God
+![The True God](066-the-true-god.png)
+
+### 068 - No Trinity in Bible
+![No Trinity in Bible](068-no-trinity-in-bible.png)
+
+### 069 - Who Is the Alpha and Omega?
+![Who Is the Alpha and Omega?](069-who-is-the-alpha-and-omega.png)
+
+### 070 - Three Name Baptism
+![Three Name Baptism](070-three-name-baptism.png)
+
+### 071 - Agency
+![Agency](071-agency.png)
+
+### 072 - Angel Is Not God
+![Angel Is Not God](072-angel-is-not-god.png)
+
+### 073 - Street Theology 101
+![Street Theology 101](073-street-theology-101%20.png)
+
+### 074 - Coffee Shop Apologetics
+![Coffee Shop Apologetics](074-coffee-shop-apologetics.png)
+
+### 075 - Deity or Resurrection?
+![Deity or Resurrection?](075-deity-or-resurrection%3F%20.png)
+
+### 076 - Angels Commanded to Worship "God"?
+![Angels Commanded to Worship God?](076-angels-commanded-to-worship-%22God%22%3F-%20.png)
+
+### 077 - Why Do You Not Understand?
+![Why Do You Not Understand?](077-why-do-you-not-understand-.png)
+
+### 078 - Jesus Is Not Alpha and Omega
+![Jesus Is Not Alpha and Omega](78-Jesus-is-not-alpha-and-omega.png)
+
+### 079 - Jesus Less Mighty Than His God
+![Jesus Less Mighty Than His God](79-jesus-less-mighty-than-his-god.png)
+
+### 080 - Pray: Our Father
+![Pray: Our Father](80-pray-our-father%20.png)
+
+### 081 - Serious Question
+![Serious Question](81-serious-question%20.png)
+
+### 082 - Wait, What?
+![Wait, What?](82-wait-what.png)
+
+### 083 - The Two Gods of Thomas
+![The Two Gods of Thomas](83-the-two-gods-of-thomas%20.png)
+
+### 084 - The Trinitarian Dilemma
+![The Trinitarian Dilemma](84-the-trinitarian-dilemma%20.png)
+
+### 085 - Bumper Sticker Unitarianism
+![Bumper Sticker Unitarianism](85-bumper-sticker-unitarianism%20.png)
+
+
 
 
 -
