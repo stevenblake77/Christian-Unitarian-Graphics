@@ -295,22 +295,15 @@ NOTE: All images are publicly available for viewing and distribution. For detail
 
 ### 085 - Bumper Sticker Unitarianism
 ![Bumper Sticker Unitarianism](85-bumper-sticker-unitarianism%20.png)
-
-
-
-
+-
 -
 -
 ## About the Author
 
-This repository is maintained by **Steven Blake**, author of the book  
-**[*The Myth of the Christian Trinity*](https://www.amazon.com/dp/B0C47ZTK2F?binding=paperback&ref=dbs_dp_sirpi)** — a work exploring Biblical Unitarian theology and challenging traditional Trinitarian doctrine.
+This repository is maintained by **Steven Blake**, author of the three-book series [***Sleight Of Mind***](https://www.amazon.com/stores/Steven-Blake/author/B07MDB7WHJ) — a work exploring Biblical Unitarian theology and challenging traditional Trinitarian doctrine.
 
 📖 **Read the book free online**:  
 [https://www.quotev.com/nontrinitarian](https://www.quotev.com/nontrinitarian)
-
-📘 **Buy on Amazon**:  
-[https://www.amazon.com/dp/B0C47ZTK2F?binding=paperback&ref=dbs_dp_sirpi](https://www.amazon.com/dp/B0C47ZTK2F?binding=paperback&ref=dbs_dp_sirpi)
 
 🎥 **YouTube Channel**:  
 [The Myth of the Christian Trinity (YouTube)](https://www.youtube.com/@TheMythOfTheChristianTrinity/playlists)
